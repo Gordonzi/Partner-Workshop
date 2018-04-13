@@ -1,4 +1,4 @@
-set PENTAHO_HOME=pentaho_install_to_modify
+set PENTAHO_HOME=C:\Pentaho
 set PENTAHO_JAVA_HOME="%PENTAHO_HOME%\java"
 
 set KETTLE_CLIENT_DIR="%PENTAHO_HOME%\design-tools\data-integration"
